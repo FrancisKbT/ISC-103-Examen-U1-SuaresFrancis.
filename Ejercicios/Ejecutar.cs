@@ -31,7 +31,7 @@ namespace ExamenPOO1.Ejercicios
                     ej1.envios();
                     break;
                     case 2: 
-                    ej2.Combustible();
+                    // ej2.Combustible();
                     break;
                     case 3:
                     ej3.Control();

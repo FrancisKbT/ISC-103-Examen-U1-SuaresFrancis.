@@ -7,10 +7,7 @@ namespace ExamenPOO1.Ejercicios
 {
     public class Ejercicio05
     {
-        public void na()
-        {
-            Console.WriteLine("Ejercicio no terminado");
-        }
+        
         // public void existencias()
         // {
         // List<string> productos = new List<string>();

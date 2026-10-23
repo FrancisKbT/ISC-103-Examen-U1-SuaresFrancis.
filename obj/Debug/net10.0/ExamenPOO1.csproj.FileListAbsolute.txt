@@ -1,0 +1,15 @@
+/home/francis/projects/ExamenPOO1/obj/Debug/net10.0/ExamenPOO1.GeneratedMSBuildEditorConfig.editorconfig
+/home/francis/projects/ExamenPOO1/obj/Debug/net10.0/ExamenPOO1.AssemblyInfoInputs.cache
+/home/francis/projects/ExamenPOO1/obj/Debug/net10.0/ExamenPOO1.AssemblyInfo.cs
+/home/francis/projects/ExamenPOO1/obj/Debug/net10.0/ExamenPOO1.csproj.CoreCompileInputs.cache
+/home/francis/projects/ExamenPOO1/obj/Debug/net10.0/ExamenPOO1.sourcelink.json
+/home/francis/projects/ExamenPOO1/bin/Debug/net10.0/ExamenPOO1
+/home/francis/projects/ExamenPOO1/bin/Debug/net10.0/ExamenPOO1.deps.json
+/home/francis/projects/ExamenPOO1/bin/Debug/net10.0/ExamenPOO1.runtimeconfig.json
+/home/francis/projects/ExamenPOO1/bin/Debug/net10.0/ExamenPOO1.dll
+/home/francis/projects/ExamenPOO1/bin/Debug/net10.0/ExamenPOO1.pdb
+/home/francis/projects/ExamenPOO1/obj/Debug/net10.0/ExamenPOO1.dll
+/home/francis/projects/ExamenPOO1/obj/Debug/net10.0/refint/ExamenPOO1.dll
+/home/francis/projects/ExamenPOO1/obj/Debug/net10.0/ExamenPOO1.pdb
+/home/francis/projects/ExamenPOO1/obj/Debug/net10.0/ExamenPOO1.genruntimeconfig.cache
+/home/francis/projects/ExamenPOO1/obj/Debug/net10.0/ref/ExamenPOO1.dll
