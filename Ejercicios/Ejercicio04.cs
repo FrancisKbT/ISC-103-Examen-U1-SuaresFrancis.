@@ -9,7 +9,7 @@ namespace ExamenPOO1.Ejercicios
     {
         int opcion =0;
         int urgencia=0;
-        string temporal;
+        string temporal="";
 
         List<string> pacientesurgentes = new List<string>();
         List<string> pacientesnourg = new List<string>();
